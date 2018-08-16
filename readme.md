@@ -1,4 +1,4 @@
-﻿# Microchip Zero Touch Secure Provisioning Kit for AWS IoT
+﻿# Java GUI Tool for WINC1500 Secure Wi-Fi Board in Microchip 2018 MASTERs Conference
 
 This package contains all the python scripts and java executable file to run the WINC1500 Secure Wi-Fi Board Java GUI tool.\
 This Java GUI tool work with the WINC1500 Secure Wi-Fi Board which showed in Microchip 2018 MASTERs Conference.
